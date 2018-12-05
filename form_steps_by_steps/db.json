@@ -1,0 +1,15 @@
+{
+  "inscrits": [
+    {
+      "id": "93exiNd",
+      "inscrit": {
+        "civilite": "Madame",
+        "nom": "test",
+        "prenom": "test",
+        "email": "testrtt@gmail.com",
+        "tel": "060884848484",
+        "framework": "Angular"
+      }
+    }
+  ]
+}
